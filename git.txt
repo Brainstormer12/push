@@ -1,0 +1,13 @@
+this is example
+
+java -version
+
+gedit/etc/environment
+
+sudo update -alternatives --config java
+
+java -version 
+
+ant -version
+
+sudo apt install ant 
